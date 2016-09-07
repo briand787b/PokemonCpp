@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1456284872 source:c:\users\brian\programming\cs_317\ch 15\pokemon\main.cpp
+	<iostream>
+	<string>
+	"Pokemon.h"
+	"Attack.h"
+	"Trainer.h"
+	<ctime>
+	<cstdlib>
+	<cctype>
+
+1455496058 source:c:\users\brian\programming\cs_317\ch 15\pokemon\pokemon.cpp
+	"Pokemon.h"
+	<iostream>
+
+1456284897 c:\users\brian\programming\cs_317\ch 15\pokemon\pokemon.h
+	"Attack.h"
+	<string>
+
+1455320920 source:c:\users\brian\programming\cs_317\ch 15\pokemon\attack.cpp
+	"Attack.h"
+
+1455321513 c:\users\brian\programming\cs_317\ch 15\pokemon\attack.h
+	<string>
+
+1455321734 source:c:\users\brian\programming\cs_317\ch 15\pokemon\trainer.cpp
+	"Trainer.h"
+	<string>
+	<iostream>
+	<cctype>
+	<ctime>
+	<cstdlib>
+	"Pokemon.h"
+
+1455149050 c:\users\brian\programming\cs_317\ch 15\pokemon\trainer.h
+	"Pokemon.h"
+	<string>
+
